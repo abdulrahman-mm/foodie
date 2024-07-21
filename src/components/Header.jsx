@@ -11,7 +11,7 @@ function Header() {
         </div>
 
         <div>
-          <button className='.btn bg-orange-500 text-white px-5 py-2 rounded-3xl'>Join the Waitlist</button>
+          <button className=' bg-orange-500 text-white px-5 py-2 rounded-3xl'>Join the Waitlist</button>
         </div>
     </nav>
   )

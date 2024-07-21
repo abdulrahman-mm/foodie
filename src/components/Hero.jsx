@@ -11,7 +11,7 @@ function Hero() {
       <div className="red_color"></div>
 
       <div className="hero  flex flex-col lg:flex-row px-6 lg:px-20 gap-10 lg:gap-40 justify-center items-center">
-        <div className="iphone-div relative w-64 md:w-80 md:h-128 lg:w-80 pt-10 lg:pt-0">
+        <div className="iphone-div relative w-64 md:w-80 md:h-128 lg:w-80 mt-10 lg:mt-0">
           <video
             className="iphone-video absolute w-full h-full lg object-cover"
             autoPlay
